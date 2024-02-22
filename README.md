@@ -1,4 +1,4 @@
-HTTP?? COMO FUNCIONA?? VOU TE DA UM EXEMPLO.
+## HTTP?? COMO FUNCIONA?? VOU TE DA UM EXEMPLO.
 
 Quando o cliente chega à concessionária, ele expressa interesse em um modelo específico de carro. O vendedor então verifica em seu estoque se o carro desejado está disponível. Assim que encontra o carro, o vendedor apresenta as informações relevantes e, se for o caso, permite que o cliente faça um teste drive.
 
